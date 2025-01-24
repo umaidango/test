@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\new_prj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\packages\\new_prj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\package_unzip1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\packages\\package_unzip1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\fox_code_editor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\fox_code_editor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setting_usercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\setting_usercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\package.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\package.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setup_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\setup_window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\package.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\package.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setting_usercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\setting_usercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\package_unzip1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\packages\\package_unzip1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setup_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\setup_window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\ver.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\ver.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\splash.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\splash.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\ai.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\ai.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\credit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\credit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\splash.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\splash.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\devtool.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\devtool.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\credit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\credit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|c:\\users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\devtool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780D0675-D796-470F-9A51-1375FE05B425}|fox_code_editor\\fox_code_editor.csproj|solutionrelative:fox_code_editor\\devtool.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 264,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ver.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\ver.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\ver.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\ver.xaml",
+              "RelativeToolTip": "fox_code_editor\\ver.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T07:11:24.111Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "new_prj.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\new_prj.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\packages\\new_prj.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\new_prj.xaml",
+              "RelativeToolTip": "fox_code_editor\\packages\\new_prj.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T11:16:14.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fox_code_editor",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\fox_code_editor.csproj",
+              "RelativeDocumentMoniker": "fox_code_editor\\fox_code_editor.csproj",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\fox_code_editor.csproj",
+              "RelativeToolTip": "fox_code_editor\\fox_code_editor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T08:07:23.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\MainWindow.xaml",
+              "RelativeToolTip": "fox_code_editor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T10:46:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACsCAAAAAAAAAAAqwF4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:11:25.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package_unzip1.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\package_unzip1.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\packages\\package_unzip1.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\package_unzip1.xaml",
+              "RelativeToolTip": "fox_code_editor\\packages\\package_unzip1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T15:23:49.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "setup_window.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setup_window.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\setup_window.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setup_window.xaml",
+              "RelativeToolTip": "fox_code_editor\\setup_window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T08:48:28.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\package.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\package.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\package.xaml",
+              "RelativeToolTip": "fox_code_editor\\package.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T13:12:08.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "package.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\package.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\package.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\package.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\package.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T13:53:43.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "setting_usercontrol.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setting_usercontrol.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\setting_usercontrol.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setting_usercontrol.xaml",
+              "RelativeToolTip": "fox_code_editor\\setting_usercontrol.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-10T06:44:57.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "setting_usercontrol.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setting_usercontrol.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\setting_usercontrol.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setting_usercontrol.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\setting_usercontrol.xaml.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T07:31:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package_unzip1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\package_unzip1.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\packages\\package_unzip1.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\packages\\package_unzip1.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\packages\\package_unzip1.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:31:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "setup_window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setup_window.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\setup_window.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\setup_window.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\setup_window.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwCIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:40:29.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ai.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\ai.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\ai.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\ai.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\ai.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:26:58.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "splash.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\splash.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\splash.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\splash.xaml",
+              "RelativeToolTip": "fox_code_editor\\splash.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T07:53:18.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "credit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\credit.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\credit.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\credit.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\credit.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:19:38.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "splash.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\splash.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\splash.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\splash.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\splash.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vzUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T07:49:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\App.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\App.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\App.xaml",
+              "RelativeToolTip": "fox_code_editor\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T08:04:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "devtool.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\devtool.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\devtool.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\devtool.xaml",
+              "RelativeToolTip": "fox_code_editor\\devtool.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T14:51:44.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "devtool.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\devtool.xaml.cs",
+              "RelativeDocumentMoniker": "fox_code_editor\\devtool.xaml.cs",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\devtool.xaml.cs",
+              "RelativeToolTip": "fox_code_editor\\devtool.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:51:59.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "credit.xaml",
+              "DocumentMoniker": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\credit.xaml",
+              "RelativeDocumentMoniker": "fox_code_editor\\credit.xaml",
+              "ToolTip": "C:\\Users\\ku-da\\source\\repos\\fox_code_editor\\fox_code_editor\\credit.xaml",
+              "RelativeToolTip": "fox_code_editor\\credit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T02:07:02.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
