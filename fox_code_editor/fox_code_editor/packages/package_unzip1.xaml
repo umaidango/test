@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="fox_code_editor.package_unzip1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fox_code_editor"
+        mc:Ignorable="d" Height="291" Width="499">
+    <Grid>
+        <Border Background="#fff" CornerRadius="25" BorderBrush="#eee" BorderThickness="1">
+            <Grid>
+
+                <Grid>
+                    <Label x:Name="package_d" Margin="234,68,33,67"/>
+                </Grid>
+            </Grid>
+        </Border>
+
+        <Image Source="https://ku-daa.web.app/fce/package/package_fce.png" Margin="5,51,277,94"></Image>
+        <Button Click="unzip" Content="解凍して開く" FontSize="18" Margin="34,216,306,35">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" x:Name="unzip_btn" Value="#FFC4FFFF" />
+                    <Setter Property="Foreground" Value="#333" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border x:Name="border" CornerRadius="5" Background="{TemplateBinding Background}">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="border" Property="Background" Value="#99F6FEFF"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</UserControl>
